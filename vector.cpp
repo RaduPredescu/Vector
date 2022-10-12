@@ -139,7 +139,7 @@ int main()
             std::string dec;
             std::cin>>dec;
             if(dec=="yes" or dec=="YES"){
-                std::cout<<"Go fuck yourself";
+                std::cout<<"Go away";
                 exit(0);
             }
             else continue;
